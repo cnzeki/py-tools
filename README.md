@@ -7,3 +7,5 @@ Personal python tools
 ## LinuxDepends
 查找linux程序的所有依赖库并拷贝到指定目录下，方便程序打包部署。
 
+## ImagenetDownloader
+多线程下载ImageNet指定类别的数据。
